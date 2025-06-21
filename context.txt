@@ -1,0 +1,156 @@
+# Q‑AOP Hackathon — Context & Onboarding Guide
+
+> **Purpose:** Give Cursor (and any new teammate) enough context to be instantly productive on the 36‑hour hackathon MVP of Q‑AOP.
+>
+> **TL;DR:** We’re shipping a demo that proves a smarter logistics planner can cut Arctic fuel & block‑time. Classical OR‑Tools does the heavy lifting; a “quantum mode” flag simulates extra uplift. A FastAPI back‑end, React + Deck.GL front‑end, and synthetic data keep us within 36 h.
+
+---
+
+## 1  | Elevator Pitch
+
+Q‑AOP (Quantum‑Assisted Arctic Operations Planner) optimises northern supply and emergency‑response routes. Turn on **Quantum Mode** → see ⬇ fuel burn & ⬇ block‑time. Even with synthetic data, judges can *feel* the impact.
+
+---
+
+## 2  | Hackathon MVP Scope (36 h)
+
+| Slice  | Included                                                                                         | Excluded                      |
+| ------ | ------------------------------------------------------------------------------------------------ | ----------------------------- |
+| Data   | 50‑node synthetic Arctic network JSON, weather‑weighted edges                                    | Real AIS, METAR, NAVCAN feeds |
+| Solver | OR‑Tools VRP / MIP + heuristic baseline; optional `mode="quantum"` stub (sleep 20 s, × 0.9 cost) | Actual quantum hardware calls |
+| API    | FastAPI `POST /optimize` → routes & KPIs                                                         | Multi‑tenant auth, billing    |
+| UI     | React + Deck.GL map, KPI cards, *Quantum Toggle*                                                 | Mobile, offline PWA           |
+| Ops    | Docker‑compose, Render (API) + Vercel (front‑end)                                                | Terraform, k8s, CI/CD         |
+
+Success Criteria: Live demo where toggling **Quantum Mode** updates the route polyline & KPI cards; README with one‑click run.
+
+---
+
+## 3  | System Architecture
+
+```text
+┌─────────┐     POST /optimize      ┌────────────┐
+│React/TS │  ───────────────────▶  │ FastAPI     │
+│Deck.GL  │ ◀── routes + KPIs ─────│  backend    │
+└─────────┘                       │  solver.py  │
+                                   └────────────┘
+      ▲             ▲                    ▲
+      │             │                    │
+      │             │ read JSON          │ imports
+      │             └──────┬─────────────┘
+      │                    │
+┌────────────┐   generate  │
+│scripts/    │◀────────────┘
+│make_net.py │  (synthetic)
+└────────────┘
+```
+
+---
+
+## 4  | Repo Layout (proposed)
+
+```
+q‑aop‑hack/
+├── backend/
+│   ├── main.py          # FastAPI app
+│   ├── solver.py        # OR‑Tools logic + quantum stub
+│   └── requirements.txt
+├── scripts/
+│   └── make_synth_net.py
+├── data/
+│   └── arctic_net_50.json
+├── frontend/
+│   ├── src/…            # Vite + React + Deck.GL
+│   └── package.json
+├── docker-compose.yml
+├── docs/
+│   └── demo.gif         # 60‑s screen capture
+├── pitch/
+│   └── Q‑AOP_Hackathon.pdf
+└── README.md            # quick‑start & demo script
+```
+
+---
+
+## 5  | Quick Start (local)
+
+### Backend
+
+```bash
+cd backend
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+### Front‑end
+
+```bash
+cd frontend
+npm i
+npm run dev  # http://localhost:5173
+```
+
+### Sample Request
+
+```bash
+curl -X POST http://localhost:8000/optimize \
+     -H "Content-Type: application/json" \
+     -d '{"network": '$(cat ../data/arctic_net_50.json)', "mode":"classical"}'
+```
+
+---
+
+## 6  | Workflow & Conventions
+
+1. **Small PRs / commits** – `<scope>: <action>` e.g. `solver: initial VRP`.
+2. **TODO comments** – mark with `// TODO(o/n): …` so Cursor surfaces them.
+3. **Branch per task** – `feat/front‑map`, `chore/docker`.
+4. **Cursor usage** – highlight code → ask “Refactor”, “Add types”, etc.
+
+---
+
+## 7  | Task Breakdown & Estimates
+
+(\[See full Gantt in README])
+
+| # | Lead       | ETA | Output                  |
+| - | ---------- | --- | ----------------------- |
+| 1 | You        | 1 h | Synthetic net generator |
+| 2 | You        | 2 h | solver.py baseline      |
+| 3 | You        | 1 h | FastAPI endpoint        |
+| 4 | You        | 2 h | Front‑end map + KPI     |
+| 5 | —          | 1 h | Deploy & demo assets    |
+|   | **Buffer** | 1 h | Debug                   |
+
+---
+
+## 8  | Deployment Cheatsheet
+
+```bash
+# Back‑end (Render)
+render.yaml → blueprint; set START_COMMAND="uvicorn backend.main:app"
+
+# Front‑end (Vercel)
+vercel --prod  # set env VITE_API_URL
+```
+
+---
+
+## 9  | Reference Links
+
+* OR‑Tools VRP docs – [https://developers.google.com/optimization/routing](https://developers.google.com/optimization/routing)
+* Deck.GL RouteLayer example – [https://deck.gl/docs/api-reference/layers/path-layer](https://deck.gl/docs/api-reference/layers/path-layer)
+* FastAPI – [https://fastapi.tiangolo.com/](https://fastapi.tiangolo.com/)
+
+---
+
+## 10  | Next Steps
+
+1. Run `scripts/make_synth_net.py` → verify JSON.
+2. Implement `solver.solve()` – return routes & KPIs.
+3. Wire FastAPI & test with `curl`.
+4. Jump to front‑end.
+5. Ping ChatGPT/o3 for code reviews or bug‑bash.
+
+Good luck – ship something 🔥!

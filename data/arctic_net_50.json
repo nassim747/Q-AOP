@@ -1,0 +1,1731 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "lat": 72.78853596915768,
+      "lon": -144.99784895546662
+    },
+    {
+      "id": 1,
+      "lat": 65.50058636738238,
+      "lon": -105.35785237023545
+    },
+    {
+      "id": 2,
+      "lat": 74.72942428328025,
+      "lon": -14.660102515417748
+    },
+    {
+      "id": 3,
+      "lat": 77.8435913540969,
+      "lon": -132.61223347411678
+    },
+    {
+      "id": 4,
+      "lat": 68.43843639370542,
+      "lon": -144.04055611238593
+    },
+    {
+      "id": 5,
+      "lat": 64.37275949607206,
+      "lon": -48.92894237932752
+    },
+    {
+      "id": 6,
+      "lat": 60.53071939367727,
+      "lon": -110.2324698626703
+    },
+    {
+      "id": 7,
+      "lat": 72.99768875559046,
+      "lon": -41.01170387935666
+    },
+    {
+      "id": 8,
+      "lat": 64.40881244081393,
+      "lon": -32.14686322481826
+    },
+    {
+      "id": 9,
+      "lat": 76.18860913355653,
+      "lon": -148.7002480643878
+    },
+    {
+      "id": 10,
+      "lat": 76.11638503665615,
+      "lon": -10.372121002354618
+    },
+    {
+      "id": 11,
+      "lat": 66.80501033035983,
+      "lon": -118.90410003764369
+    },
+    {
+      "id": 12,
+      "lat": 79.14426144413562,
+      "lon": -82.68109097747465
+    },
+    {
+      "id": 13,
+      "lat": 61.85491686760296,
+      "lon": -130.6567246333072
+    },
+    {
+      "id": 14,
+      "lat": 76.9498873269492,
+      "lon": -29.254793726621784
+    },
+    {
+      "id": 15,
+      "lat": 76.1425654654876,
+      "lon": -4.05364266123641
+    },
+    {
+      "id": 16,
+      "lat": 70.72456182909401,
+      "lon": 44.62315279587412
+    },
+    {
+      "id": 17,
+      "lat": 67.57068754416707,
+      "lon": -39.591873745354604
+    },
+    {
+      "id": 18,
+      "lat": 76.5880932850599,
+      "lon": -26.296049527150785
+    },
+    {
+      "id": 19,
+      "lat": 77.23413800621555,
+      "lon": -34.52957094864759
+    },
+    {
+      "id": 20,
+      "lat": 74.09143672429848,
+      "lon": -140.83512326886756
+    },
+    {
+      "id": 21,
+      "lat": 64.55796551303094,
+      "lon": -92.12240727957857
+    },
+    {
+      "id": 22,
+      "lat": 61.595839538472546,
+      "lon": -103.44182272779396
+    },
+    {
+      "id": 23,
+      "lat": 62.020028588194585,
+      "lon": -94.40527937798157
+    },
+    {
+      "id": 24,
+      "lat": 72.71368888528801,
+      "lon": -77.03356420598315
+    },
+    {
+      "id": 25,
+      "lat": 67.40361934233765,
+      "lon": -108.09859384570245
+    },
+    {
+      "id": 26,
+      "lat": 65.33955644098226,
+      "lon": 37.33091754249881
+    },
+    {
+      "id": 27,
+      "lat": 72.96070770493188,
+      "lon": -28.173798866602368
+    },
+    {
+      "id": 28,
+      "lat": 63.42277296396194,
+      "lon": -4.174640409930163
+    },
+    {
+      "id": 29,
+      "lat": 63.26804987523857,
+      "lon": -74.10891164847044
+    },
+    {
+      "id": 30,
+      "lat": 79.79046701273191,
+      "lon": -22.00004802918143
+    },
+    {
+      "id": 31,
+      "lat": 71.13899487549293,
+      "lon": -13.077149802025076
+    },
+    {
+      "id": 32,
+      "lat": 76.8570384037962,
+      "lon": 5.199982309248952
+    },
+    {
+      "id": 33,
+      "lat": 64.58096143928209,
+      "lon": -143.57995121919245
+    },
+    {
+      "id": 34,
+      "lat": 66.30906096118164,
+      "lon": -96.45182480485946
+    },
+    {
+      "id": 35,
+      "lat": 64.21965687172653,
+      "lon": 38.581942867010895
+    },
+    {
+      "id": 36,
+      "lat": 77.52735252945338,
+      "lon": -87.06442384030441
+    },
+    {
+      "id": 37,
+      "lat": 73.1087733058976,
+      "lon": -70.87361978786714
+    },
+    {
+      "id": 38,
+      "lat": 78.29095179481087,
+      "lon": -58.22962948252024
+    },
+    {
+      "id": 39,
+      "lat": 65.29760332996105,
+      "lon": -100.67449846120331
+    },
+    {
+      "id": 40,
+      "lat": 71.22736268326301,
+      "lon": -97.45167829541295
+    },
+    {
+      "id": 41,
+      "lat": 71.69171980447081,
+      "lon": 29.56457672049538
+    },
+    {
+      "id": 42,
+      "lat": 67.98801010280795,
+      "lon": -106.13584816854333
+    },
+    {
+      "id": 43,
+      "lat": 79.95075212990221,
+      "lon": -48.094741264707096
+    },
+    {
+      "id": 44,
+      "lat": 61.81818824347588,
+      "lon": -140.5767249150531
+    },
+    {
+      "id": 45,
+      "lat": 62.192982607013185,
+      "lon": -24.510791659381994
+    },
+    {
+      "id": 46,
+      "lat": 75.84158728725929,
+      "lon": -65.56800664006319
+    },
+    {
+      "id": 47,
+      "lat": 61.27055412303914,
+      "lon": -73.67614269869264
+    },
+    {
+      "id": 48,
+      "lat": 79.92242760480194,
+      "lon": -44.17713098017259
+    },
+    {
+      "id": 49,
+      "lat": 79.42156755227236,
+      "lon": 22.15594044689962
+    },
+    {
+      "id": 50,
+      "lat": 60.229620438856394,
+      "lon": -5.855636127961077
+    },
+    {
+      "id": 51,
+      "lat": 73.63420738053149,
+      "lon": -42.605933918240964
+    },
+    {
+      "id": 52,
+      "lat": 65.33650379905086,
+      "lon": -21.8076402840384
+    },
+    {
+      "id": 53,
+      "lat": 62.23104347191753,
+      "lon": -63.046949866179006
+    },
+    {
+      "id": 54,
+      "lat": 69.07447412658414,
+      "lon": 40.76318550421604
+    },
+    {
+      "id": 55,
+      "lat": 77.51705880756388,
+      "lon": -97.32218984978185
+    },
+    {
+      "id": 56,
+      "lat": 70.01172226100597,
+      "lon": -114.26962389397373
+    },
+    {
+      "id": 57,
+      "lat": 78.2525567868964,
+      "lon": 24.10371396735337
+    },
+    {
+      "id": 58,
+      "lat": 65.96889582897266,
+      "lon": -22.210101026798966
+    },
+    {
+      "id": 59,
+      "lat": 72.17940422876345,
+      "lon": -119.43214629007304
+    },
+    {
+      "id": 60,
+      "lat": 75.25021600150302,
+      "lon": -42.12419397607485
+    },
+    {
+      "id": 61,
+      "lat": 75.57252957261116,
+      "lon": -43.92926556096451
+    },
+    {
+      "id": 62,
+      "lat": 60.01143792255887,
+      "lon": -85.16878859906538
+    },
+    {
+      "id": 63,
+      "lat": 60.38953484771665,
+      "lon": 35.81972325292341
+    },
+    {
+      "id": 64,
+      "lat": 77.57443755646369,
+      "lon": 16.333105872235876
+    },
+    {
+      "id": 65,
+      "lat": 66.15028250805322,
+      "lon": -138.41496670116248
+    },
+    {
+      "id": 66,
+      "lat": 77.5601919840808,
+      "lon": 39.38988905959883
+    },
+    {
+      "id": 67,
+      "lat": 61.71306904135758,
+      "lon": -52.801907336677246
+    },
+    {
+      "id": 68,
+      "lat": 61.38425036936767,
+      "lon": 2.1204330514463265
+    },
+    {
+      "id": 69,
+      "lat": 75.31668858613975,
+      "lon": -124.32170710004743
+    },
+    {
+      "id": 70,
+      "lat": 69.50564756197463,
+      "lon": -40.039281301011215
+    },
+    {
+      "id": 71,
+      "lat": 65.30113257880119,
+      "lon": 24.486608217051497
+    },
+    {
+      "id": 72,
+      "lat": 68.46275880401774,
+      "lon": -107.64035891158359
+    },
+    {
+      "id": 73,
+      "lat": 70.78592177558917,
+      "lon": -4.013786182004765
+    },
+    {
+      "id": 74,
+      "lat": 64.02302126779392,
+      "lon": -87.656741739821
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 20,
+      "distance_nm": 105.7555393414998,
+      "weather_factor": 1.9951493566608947
+    },
+    {
+      "source": 0,
+      "target": 9,
+      "distance_nm": 212.52164723582322,
+      "weather_factor": 1.6498780576394534
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "distance_nm": 261.8694366220677,
+      "weather_factor": 1.4381000839145042
+    },
+    {
+      "source": 1,
+      "target": 39,
+      "distance_nm": 117.66331595817518,
+      "weather_factor": 1.5175758410355906
+    },
+    {
+      "source": 1,
+      "target": 25,
+      "distance_nm": 131.7945967315393,
+      "weather_factor": 1.1210041958682657
+    },
+    {
+      "source": 1,
+      "target": 42,
+      "distance_nm": 150.4774902985023,
+      "weather_factor": 1.2246973370315573
+    },
+    {
+      "source": 2,
+      "target": 10,
+      "distance_nm": 105.46062082611422,
+      "weather_factor": 1.3380855621474552
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "distance_nm": 180.87142138512118,
+      "weather_factor": 1.5883087184572333
+    },
+    {
+      "source": 2,
+      "target": 18,
+      "distance_nm": 205.37692798943016,
+      "weather_factor": 1.230114732596577
+    },
+    {
+      "source": 3,
+      "target": 69,
+      "distance_nm": 190.33055063592826,
+      "weather_factor": 1.2202173844515594
+    },
+    {
+      "source": 3,
+      "target": 9,
+      "distance_nm": 237.68117264740704,
+      "weather_factor": 1.0709930860090324
+    },
+    {
+      "source": 3,
+      "target": 20,
+      "distance_nm": 254.57434399682947,
+      "weather_factor": 1.631102957270099
+    },
+    {
+      "source": 4,
+      "target": 65,
+      "distance_nm": 189.2589510207138,
+      "weather_factor": 1.2289417838111545
+    },
+    {
+      "source": 4,
+      "target": 33,
+      "distance_nm": 231.8650710661436,
+      "weather_factor": 1.905420013006128
+    },
+    {
+      "source": 4,
+      "target": 0,
+      "distance_nm": 261.8694366220677,
+      "weather_factor": 1.8596354002537465
+    },
+    {
+      "source": 5,
+      "target": 67,
+      "distance_nm": 191.26957876013267,
+      "weather_factor": 1.0708573498886533
+    },
+    {
+      "source": 5,
+      "target": 17,
+      "distance_nm": 297.75756102835646,
+      "weather_factor": 1.2380046343689952
+    },
+    {
+      "source": 5,
+      "target": 70,
+      "distance_nm": 371.6164112809907,
+      "weather_factor": 1.6689777782962807
+    },
+    {
+      "source": 6,
+      "target": 22,
+      "distance_nm": 207.26287932975055,
+      "weather_factor": 1.2142368073704386
+    },
+    {
+      "source": 6,
+      "target": 1,
+      "distance_nm": 326.38447354999187,
+      "weather_factor": 1.132311848725025
+    },
+    {
+      "source": 6,
+      "target": 39,
+      "distance_nm": 386.7463260077981,
+      "weather_factor": 1.935514240580671
+    },
+    {
+      "source": 7,
+      "target": 51,
+      "distance_nm": 47.067776937433614,
+      "weather_factor": 1.5710430933252844
+    },
+    {
+      "source": 7,
+      "target": 60,
+      "distance_nm": 136.46548766884584,
+      "weather_factor": 1.4726710263117941
+    },
+    {
+      "source": 7,
+      "target": 61,
+      "distance_nm": 161.66439931745944,
+      "weather_factor": 1.7846194242907534
+    },
+    {
+      "source": 8,
+      "target": 45,
+      "distance_nm": 244.97973115621522,
+      "weather_factor": 1.8074969977666435
+    },
+    {
+      "source": 8,
+      "target": 17,
+      "distance_nm": 262.57857003411874,
+      "weather_factor": 1.1904099143618776
+    },
+    {
+      "source": 8,
+      "target": 58,
+      "distance_nm": 266.95163206205626,
+      "weather_factor": 1.0969308142288234
+    },
+    {
+      "source": 9,
+      "target": 20,
+      "distance_nm": 174.43751834199145,
+      "weather_factor": 1.4310511824063776
+    },
+    {
+      "source": 9,
+      "target": 0,
+      "distance_nm": 212.52164723582322,
+      "weather_factor": 1.4235786230199208
+    },
+    {
+      "source": 9,
+      "target": 3,
+      "distance_nm": 237.68117264740704,
+      "weather_factor": 1.467024668036675
+    },
+    {
+      "source": 10,
+      "target": 15,
+      "distance_nm": 90.91461618998575,
+      "weather_factor": 1.7290758494598506
+    },
+    {
+      "source": 10,
+      "target": 2,
+      "distance_nm": 105.46062082611422,
+      "weather_factor": 1.6733645472933016
+    },
+    {
+      "source": 10,
+      "target": 32,
+      "distance_nm": 222.25057231333307,
+      "weather_factor": 1.984165211365966
+    },
+    {
+      "source": 11,
+      "target": 56,
+      "distance_nm": 217.92984345528558,
+      "weather_factor": 1.098417871151959
+    },
+    {
+      "source": 11,
+      "target": 25,
+      "distance_nm": 254.6174540273433,
+      "weather_factor": 1.4026212821022688
+    },
+    {
+      "source": 11,
+      "target": 72,
+      "distance_nm": 275.43090523473705,
+      "weather_factor": 1.339302605394963
+    },
+    {
+      "source": 12,
+      "target": 36,
+      "distance_nm": 110.63846915964615,
+      "weather_factor": 1.861672536352791
+    },
+    {
+      "source": 12,
+      "target": 55,
+      "distance_nm": 202.09567159142202,
+      "weather_factor": 1.2486563339202856
+    },
+    {
+      "source": 12,
+      "target": 38,
+      "distance_nm": 289.49668404395595,
+      "weather_factor": 1.1902089084408116
+    },
+    {
+      "source": 13,
+      "target": 44,
+      "distance_nm": 280.8525647778537,
+      "weather_factor": 1.448613547833132
+    },
+    {
+      "source": 13,
+      "target": 65,
+      "distance_nm": 328.45353687782665,
+      "weather_factor": 1.421881639834404
+    },
+    {
+      "source": 13,
+      "target": 33,
+      "distance_nm": 385.1243079508744,
+      "weather_factor": 1.2785451446669405
+    },
+    {
+      "source": 14,
+      "target": 18,
+      "distance_nm": 46.09064398494439,
+      "weather_factor": 1.2498064478821005
+    },
+    {
+      "source": 14,
+      "target": 19,
+      "distance_nm": 72.74860835911701,
+      "weather_factor": 1.9232655992760128
+    },
+    {
+      "source": 14,
+      "target": 30,
+      "distance_nm": 191.5049100482478,
+      "weather_factor": 1.443130745053457
+    },
+    {
+      "source": 15,
+      "target": 10,
+      "distance_nm": 90.91461618998575,
+      "weather_factor": 1.8613491047618305
+    },
+    {
+      "source": 15,
+      "target": 32,
+      "distance_nm": 136.44321511242512,
+      "weather_factor": 1.5503253124498482
+    },
+    {
+      "source": 15,
+      "target": 2,
+      "distance_nm": 180.87142138512118,
+      "weather_factor": 1.0505883295248812
+    },
+    {
+      "source": 16,
+      "target": 54,
+      "distance_nm": 127.06865905479701,
+      "weather_factor": 1.9992824684127266
+    },
+    {
+      "source": 16,
+      "target": 41,
+      "distance_nm": 296.1511617934379,
+      "weather_factor": 1.836027585079952
+    },
+    {
+      "source": 16,
+      "target": 26,
+      "distance_nm": 361.86437020229323,
+      "weather_factor": 1.9689962572847513
+    },
+    {
+      "source": 17,
+      "target": 70,
+      "distance_nm": 116.59009129375828,
+      "weather_factor": 1.9263669830081276
+    },
+    {
+      "source": 17,
+      "target": 8,
+      "distance_nm": 262.57857003411874,
+      "weather_factor": 1.8486957344143056
+    },
+    {
+      "source": 17,
+      "target": 5,
+      "distance_nm": 297.75756102835646,
+      "weather_factor": 1.166311110603914
+    },
+    {
+      "source": 18,
+      "target": 14,
+      "distance_nm": 46.09064398494439,
+      "weather_factor": 1.4856411254507185
+    },
+    {
+      "source": 18,
+      "target": 19,
+      "distance_nm": 118.3618346011604,
+      "weather_factor": 1.2137472991991816
+    },
+    {
+      "source": 18,
+      "target": 30,
+      "distance_nm": 199.25848907440022,
+      "weather_factor": 1.4010402925494527
+    },
+    {
+      "source": 19,
+      "target": 14,
+      "distance_nm": 72.74860835911701,
+      "weather_factor": 1.058635399972179
+    },
+    {
+      "source": 19,
+      "target": 18,
+      "distance_nm": 118.3618346011604,
+      "weather_factor": 1.378973118976916
+    },
+    {
+      "source": 19,
+      "target": 60,
+      "distance_nm": 160.84765031960097,
+      "weather_factor": 1.985308843779726
+    },
+    {
+      "source": 20,
+      "target": 0,
+      "distance_nm": 105.7555393414998,
+      "weather_factor": 1.265203058172152
+    },
+    {
+      "source": 20,
+      "target": 9,
+      "distance_nm": 174.43751834199145,
+      "weather_factor": 1.7840706019485695
+    },
+    {
+      "source": 20,
+      "target": 3,
+      "distance_nm": 254.57434399682947,
+      "weather_factor": 1.4550083673391434
+    },
+    {
+      "source": 21,
+      "target": 74,
+      "distance_nm": 120.63737364073168,
+      "weather_factor": 1.423007485990163
+    },
+    {
+      "source": 21,
+      "target": 34,
+      "distance_nm": 150.7124466502539,
+      "weather_factor": 1.957317640859673
+    },
+    {
+      "source": 21,
+      "target": 23,
+      "distance_nm": 164.33702711551078,
+      "weather_factor": 1.9954226894927138
+    },
+    {
+      "source": 22,
+      "target": 6,
+      "distance_nm": 207.26287932975055,
+      "weather_factor": 1.5557683234056183
+    },
+    {
+      "source": 22,
+      "target": 39,
+      "distance_nm": 234.2828237925753,
+      "weather_factor": 1.718408275296326
+    },
+    {
+      "source": 22,
+      "target": 1,
+      "distance_nm": 239.9495821632604,
+      "weather_factor": 1.1547968252740641
+    },
+    {
+      "source": 23,
+      "target": 21,
+      "distance_nm": 164.33702711551078,
+      "weather_factor": 1.2967078254945643
+    },
+    {
+      "source": 23,
+      "target": 74,
+      "distance_nm": 219.4906867326034,
+      "weather_factor": 1.968709364969159
+    },
+    {
+      "source": 23,
+      "target": 22,
+      "distance_nm": 257.3701990364918,
+      "weather_factor": 1.5791802908162562
+    },
+    {
+      "source": 24,
+      "target": 37,
+      "distance_nm": 111.18532226788834,
+      "weather_factor": 1.5421952013742741
+    },
+    {
+      "source": 24,
+      "target": 46,
+      "distance_nm": 263.8626476188141,
+      "weather_factor": 1.747975560379064
+    },
+    {
+      "source": 24,
+      "target": 36,
+      "distance_nm": 326.77002956529566,
+      "weather_factor": 1.0571652729074832
+    },
+    {
+      "source": 25,
+      "target": 42,
+      "distance_nm": 56.84104805365003,
+      "weather_factor": 1.5841775944589713
+    },
+    {
+      "source": 25,
+      "target": 72,
+      "distance_nm": 64.42530887318053,
+      "weather_factor": 1.5028503829195135
+    },
+    {
+      "source": 25,
+      "target": 1,
+      "distance_nm": 131.7945967315393,
+      "weather_factor": 1.8527198920482855
+    },
+    {
+      "source": 26,
+      "target": 35,
+      "distance_nm": 74.46448180114767,
+      "weather_factor": 1.1574327279394834
+    },
+    {
+      "source": 26,
+      "target": 54,
+      "distance_nm": 237.94451138951547,
+      "weather_factor": 1.9607789032744503
+    },
+    {
+      "source": 26,
+      "target": 63,
+      "distance_nm": 300.04666244068767,
+      "weather_factor": 1.080111465240587
+    },
+    {
+      "source": 27,
+      "target": 18,
+      "distance_nm": 219.76544673962127,
+      "weather_factor": 1.1858249609807232
+    },
+    {
+      "source": 27,
+      "target": 7,
+      "distance_nm": 225.20522181778307,
+      "weather_factor": 1.5950351064500277
+    },
+    {
+      "source": 27,
+      "target": 14,
+      "distance_nm": 240.09378724824674,
+      "weather_factor": 1.6752125536040903
+    },
+    {
+      "source": 28,
+      "target": 50,
+      "distance_nm": 197.53443757523252,
+      "weather_factor": 1.2352038950009312
+    },
+    {
+      "source": 28,
+      "target": 68,
+      "distance_nm": 213.47732490621496,
+      "weather_factor": 1.1198866139471242
+    },
+    {
+      "source": 28,
+      "target": 73,
+      "distance_nm": 442.1024221356683,
+      "weather_factor": 1.8902873141294374
+    },
+    {
+      "source": 29,
+      "target": 47,
+      "distance_nm": 120.53774257968827,
+      "weather_factor": 1.2462153477886249
+    },
+    {
+      "source": 29,
+      "target": 53,
+      "distance_nm": 310.00103123143003,
+      "weather_factor": 1.594519153533441
+    },
+    {
+      "source": 29,
+      "target": 74,
+      "distance_nm": 363.224295890493,
+      "weather_factor": 1.619381510332103
+    },
+    {
+      "source": 30,
+      "target": 14,
+      "distance_nm": 191.5049100482478,
+      "weather_factor": 1.4192249153358725
+    },
+    {
+      "source": 30,
+      "target": 18,
+      "distance_nm": 199.25848907440022,
+      "weather_factor": 1.5836722892912247
+    },
+    {
+      "source": 30,
+      "target": 19,
+      "distance_nm": 213.64612404994733,
+      "weather_factor": 1.5227827155319589
+    },
+    {
+      "source": 31,
+      "target": 73,
+      "distance_nm": 178.59090937593413,
+      "weather_factor": 1.9347062577364271
+    },
+    {
+      "source": 31,
+      "target": 2,
+      "distance_nm": 217.3485972997629,
+      "weather_factor": 1.2042591994235363
+    },
+    {
+      "source": 31,
+      "target": 27,
+      "distance_nm": 298.99121765850117,
+      "weather_factor": 1.7161918007894148
+    },
+    {
+      "source": 32,
+      "target": 15,
+      "distance_nm": 136.44321511242512,
+      "weather_factor": 1.238685952615846
+    },
+    {
+      "source": 32,
+      "target": 64,
+      "distance_nm": 153.78899338273263,
+      "weather_factor": 1.3957858467912545
+    },
+    {
+      "source": 32,
+      "target": 10,
+      "distance_nm": 222.25057231333307,
+      "weather_factor": 1.6716902229599713
+    },
+    {
+      "source": 33,
+      "target": 65,
+      "distance_nm": 159.87836764439527,
+      "weather_factor": 1.2999970797987621
+    },
+    {
+      "source": 33,
+      "target": 44,
+      "distance_nm": 184.68327746961953,
+      "weather_factor": 1.316177196271854
+    },
+    {
+      "source": 33,
+      "target": 4,
+      "distance_nm": 231.8650710661436,
+      "weather_factor": 1.751864492414402
+    },
+    {
+      "source": 34,
+      "target": 39,
+      "distance_nm": 120.3234068228486,
+      "weather_factor": 1.0725431144931572
+    },
+    {
+      "source": 34,
+      "target": 21,
+      "distance_nm": 150.7124466502539,
+      "weather_factor": 1.4582855226185862
+    },
+    {
+      "source": 34,
+      "target": 1,
+      "distance_nm": 223.42676222435605,
+      "weather_factor": 1.9984544408544425
+    },
+    {
+      "source": 35,
+      "target": 26,
+      "distance_nm": 74.46448180114767,
+      "weather_factor": 1.9960964478550944
+    },
+    {
+      "source": 35,
+      "target": 63,
+      "distance_nm": 242.48043011544223,
+      "weather_factor": 1.073260721099633
+    },
+    {
+      "source": 35,
+      "target": 54,
+      "distance_nm": 296.0251222463425,
+      "weather_factor": 1.2131543122670405
+    },
+    {
+      "source": 36,
+      "target": 12,
+      "distance_nm": 110.63846915964615,
+      "weather_factor": 1.2652004147504012
+    },
+    {
+      "source": 36,
+      "target": 55,
+      "distance_nm": 132.90004820182938,
+      "weather_factor": 1.933259377993709
+    },
+    {
+      "source": 36,
+      "target": 46,
+      "distance_nm": 311.9021538875544,
+      "weather_factor": 1.8808641736864395
+    },
+    {
+      "source": 37,
+      "target": 24,
+      "distance_nm": 111.18532226788834,
+      "weather_factor": 1.8792702424845427
+    },
+    {
+      "source": 37,
+      "target": 46,
+      "distance_nm": 184.74829004507407,
+      "weather_factor": 1.369527088738884
+    },
+    {
+      "source": 37,
+      "target": 36,
+      "distance_nm": 359.6804747792792,
+      "weather_factor": 1.157746832357232
+    },
+    {
+      "source": 38,
+      "target": 43,
+      "distance_nm": 151.6982547250989,
+      "weather_factor": 1.833744954639807
+    },
+    {
+      "source": 38,
+      "target": 46,
+      "distance_nm": 176.78780000188368,
+      "weather_factor": 1.7035399250873708
+    },
+    {
+      "source": 38,
+      "target": 48,
+      "distance_nm": 186.42804759792304,
+      "weather_factor": 1.61167776572595
+    },
+    {
+      "source": 39,
+      "target": 1,
+      "distance_nm": 117.66331595817518,
+      "weather_factor": 1.9872330636315043
+    },
+    {
+      "source": 39,
+      "target": 34,
+      "distance_nm": 120.3234068228486,
+      "weather_factor": 1.6539763177107325
+    },
+    {
+      "source": 39,
+      "target": 42,
+      "distance_nm": 207.19400280008207,
+      "weather_factor": 1.007823107152158
+    },
+    {
+      "source": 40,
+      "target": 42,
+      "distance_nm": 265.66913667766374,
+      "weather_factor": 1.8171041351154615
+    },
+    {
+      "source": 40,
+      "target": 72,
+      "distance_nm": 267.7244945628392,
+      "weather_factor": 1.2993787521999778
+    },
+    {
+      "source": 40,
+      "target": 34,
+      "distance_nm": 296.0860218825279,
+      "weather_factor": 1.6633887149660773
+    },
+    {
+      "source": 41,
+      "target": 54,
+      "distance_nm": 274.38607387946655,
+      "weather_factor": 1.938930003927104
+    },
+    {
+      "source": 41,
+      "target": 16,
+      "distance_nm": 296.1511617934379,
+      "weather_factor": 1.1342911143933678
+    },
+    {
+      "source": 41,
+      "target": 66,
+      "distance_nm": 384.29601078972576,
+      "weather_factor": 1.115428670419102
+    },
+    {
+      "source": 42,
+      "target": 72,
+      "distance_nm": 43.9904492639483,
+      "weather_factor": 1.1070359777094176
+    },
+    {
+      "source": 42,
+      "target": 25,
+      "distance_nm": 56.84104805365003,
+      "weather_factor": 1.553223640884816
+    },
+    {
+      "source": 42,
+      "target": 1,
+      "distance_nm": 150.4774902985023,
+      "weather_factor": 1.2723482123148164
+    },
+    {
+      "source": 43,
+      "target": 48,
+      "distance_nm": 41.12838701006959,
+      "weather_factor": 1.604829827030224
+    },
+    {
+      "source": 43,
+      "target": 38,
+      "distance_nm": 151.6982547250989,
+      "weather_factor": 1.717612187138798
+    },
+    {
+      "source": 43,
+      "target": 19,
+      "distance_nm": 228.2008508991842,
+      "weather_factor": 1.203597312327453
+    },
+    {
+      "source": 44,
+      "target": 33,
+      "distance_nm": 184.68327746961953,
+      "weather_factor": 1.6342379588850797
+    },
+    {
+      "source": 44,
+      "target": 65,
+      "distance_nm": 266.21827015228513,
+      "weather_factor": 1.2639839016304095
+    },
+    {
+      "source": 44,
+      "target": 13,
+      "distance_nm": 280.8525647778537,
+      "weather_factor": 1.4885318521493764
+    },
+    {
+      "source": 45,
+      "target": 52,
+      "distance_nm": 201.8702211713458,
+      "weather_factor": 1.9053364910793231
+    },
+    {
+      "source": 45,
+      "target": 58,
+      "distance_nm": 234.57074586488807,
+      "weather_factor": 1.8461037132948555
+    },
+    {
+      "source": 45,
+      "target": 8,
+      "distance_nm": 244.97973115621522,
+      "weather_factor": 1.0922984677127334
+    },
+    {
+      "source": 46,
+      "target": 38,
+      "distance_nm": 176.78780000188368,
+      "weather_factor": 1.4235757725637264
+    },
+    {
+      "source": 46,
+      "target": 37,
+      "distance_nm": 184.74829004507407,
+      "weather_factor": 1.2766802239722517
+    },
+    {
+      "source": 46,
+      "target": 24,
+      "distance_nm": 263.8626476188141,
+      "weather_factor": 1.0035456890877823
+    },
+    {
+      "source": 47,
+      "target": 29,
+      "distance_nm": 120.53774257968827,
+      "weather_factor": 1.771119223019627
+    },
+    {
+      "source": 47,
+      "target": 53,
+      "distance_nm": 307.1419465566356,
+      "weather_factor": 1.6371133773013797
+    },
+    {
+      "source": 47,
+      "target": 62,
+      "distance_nm": 346.15844607453596,
+      "weather_factor": 1.2619552624343482
+    },
+    {
+      "source": 48,
+      "target": 43,
+      "distance_nm": 41.12838701006959,
+      "weather_factor": 1.741230908347931
+    },
+    {
+      "source": 48,
+      "target": 38,
+      "distance_nm": 186.42804759792304,
+      "weather_factor": 1.5516804211263913
+    },
+    {
+      "source": 48,
+      "target": 19,
+      "distance_nm": 197.485013974252,
+      "weather_factor": 1.4276869189806793
+    },
+    {
+      "source": 49,
+      "target": 57,
+      "distance_nm": 73.73945863964869,
+      "weather_factor": 1.0096696996083399
+    },
+    {
+      "source": 49,
+      "target": 64,
+      "distance_nm": 130.85962243315277,
+      "weather_factor": 1.075243860073767
+    },
+    {
+      "source": 49,
+      "target": 66,
+      "distance_nm": 233.52142542577909,
+      "weather_factor": 1.8831063933001428
+    },
+    {
+      "source": 50,
+      "target": 28,
+      "distance_nm": 197.53443757523252,
+      "weather_factor": 1.9039285715598933
+    },
+    {
+      "source": 50,
+      "target": 68,
+      "distance_nm": 243.47137338251875,
+      "weather_factor": 1.5455902892055224
+    },
+    {
+      "source": 50,
+      "target": 52,
+      "distance_nm": 532.3119937860253,
+      "weather_factor": 1.8345950198860166
+    },
+    {
+      "source": 51,
+      "target": 7,
+      "distance_nm": 47.067776937433614,
+      "weather_factor": 1.5825095664897941
+    },
+    {
+      "source": 51,
+      "target": 60,
+      "distance_nm": 97.33472431454335,
+      "weather_factor": 1.1480937855674826
+    },
+    {
+      "source": 51,
+      "target": 61,
+      "distance_nm": 118.2667960446664,
+      "weather_factor": 1.1274455192821389
+    },
+    {
+      "source": 52,
+      "target": 58,
+      "distance_nm": 39.254021292109734,
+      "weather_factor": 1.3082583499301337
+    },
+    {
+      "source": 52,
+      "target": 45,
+      "distance_nm": 201.8702211713458,
+      "weather_factor": 1.89898148874259
+    },
+    {
+      "source": 52,
+      "target": 8,
+      "distance_nm": 269.09151842933244,
+      "weather_factor": 1.7961223048880417
+    },
+    {
+      "source": 53,
+      "target": 67,
+      "distance_nm": 290.4032922043464,
+      "weather_factor": 1.8607025820009029
+    },
+    {
+      "source": 53,
+      "target": 47,
+      "distance_nm": 307.1419465566356,
+      "weather_factor": 1.8989246365264747
+    },
+    {
+      "source": 53,
+      "target": 29,
+      "distance_nm": 310.00103123143003,
+      "weather_factor": 1.210076538339754
+    },
+    {
+      "source": 54,
+      "target": 16,
+      "distance_nm": 127.06865905479701,
+      "weather_factor": 1.2495297392229245
+    },
+    {
+      "source": 54,
+      "target": 26,
+      "distance_nm": 237.94451138951547,
+      "weather_factor": 1.1027936216717857
+    },
+    {
+      "source": 54,
+      "target": 41,
+      "distance_nm": 274.38607387946655,
+      "weather_factor": 1.7801162418714427
+    },
+    {
+      "source": 55,
+      "target": 36,
+      "distance_nm": 132.90004820182938,
+      "weather_factor": 1.8841347014510088
+    },
+    {
+      "source": 55,
+      "target": 12,
+      "distance_nm": 202.09567159142202,
+      "weather_factor": 1.4063773898321168
+    },
+    {
+      "source": 55,
+      "target": 40,
+      "distance_nm": 377.6418311012626,
+      "weather_factor": 1.620661510150713
+    },
+    {
+      "source": 56,
+      "target": 59,
+      "distance_nm": 164.273013786543,
+      "weather_factor": 1.1545533383322046
+    },
+    {
+      "source": 56,
+      "target": 72,
+      "distance_nm": 168.85548953244552,
+      "weather_factor": 1.9298810156936743
+    },
+    {
+      "source": 56,
+      "target": 25,
+      "distance_nm": 206.2586740527629,
+      "weather_factor": 1.864605696219964
+    },
+    {
+      "source": 57,
+      "target": 49,
+      "distance_nm": 73.73945863964869,
+      "weather_factor": 1.9762060329309628
+    },
+    {
+      "source": 57,
+      "target": 64,
+      "distance_nm": 105.73408048259111,
+      "weather_factor": 1.810771719940397
+    },
+    {
+      "source": 57,
+      "target": 66,
+      "distance_nm": 196.11962582202736,
+      "weather_factor": 1.8814162046633243
+    },
+    {
+      "source": 58,
+      "target": 52,
+      "distance_nm": 39.254021292109734,
+      "weather_factor": 1.0247863618981887
+    },
+    {
+      "source": 58,
+      "target": 45,
+      "distance_nm": 234.57074586488807,
+      "weather_factor": 1.736564471755082
+    },
+    {
+      "source": 58,
+      "target": 8,
+      "distance_nm": 266.95163206205626,
+      "weather_factor": 1.3321854679464287
+    },
+    {
+      "source": 59,
+      "target": 56,
+      "distance_nm": 164.273013786543,
+      "weather_factor": 1.9308158860483255
+    },
+    {
+      "source": 59,
+      "target": 69,
+      "distance_nm": 205.34405834435685,
+      "weather_factor": 1.802235138937139
+    },
+    {
+      "source": 59,
+      "target": 11,
+      "distance_nm": 322.86904113339506,
+      "weather_factor": 1.8640640283752794
+    },
+    {
+      "source": 60,
+      "target": 61,
+      "distance_nm": 33.45917977225888,
+      "weather_factor": 1.8107493165743889
+    },
+    {
+      "source": 60,
+      "target": 51,
+      "distance_nm": 97.33472431454335,
+      "weather_factor": 1.266805709594472
+    },
+    {
+      "source": 60,
+      "target": 7,
+      "distance_nm": 136.46548766884584,
+      "weather_factor": 1.7873745091354711
+    },
+    {
+      "source": 61,
+      "target": 60,
+      "distance_nm": 33.45917977225888,
+      "weather_factor": 1.1080956264029571
+    },
+    {
+      "source": 61,
+      "target": 51,
+      "distance_nm": 118.2667960446664,
+      "weather_factor": 1.8721667829060897
+    },
+    {
+      "source": 61,
+      "target": 7,
+      "distance_nm": 161.66439931745944,
+      "weather_factor": 1.8585932513377816
+    },
+    {
+      "source": 62,
+      "target": 74,
+      "distance_nm": 250.80025884486878,
+      "weather_factor": 1.2224337175456643
+    },
+    {
+      "source": 62,
+      "target": 23,
+      "distance_nm": 294.20583961570253,
+      "weather_factor": 1.816586605596929
+    },
+    {
+      "source": 62,
+      "target": 21,
+      "distance_nm": 334.5840107060955,
+      "weather_factor": 1.4603032346789422
+    },
+    {
+      "source": 63,
+      "target": 35,
+      "distance_nm": 242.48043011544223,
+      "weather_factor": 1.3051908673386006
+    },
+    {
+      "source": 63,
+      "target": 26,
+      "distance_nm": 300.04666244068767,
+      "weather_factor": 1.795345499152862
+    },
+    {
+      "source": 63,
+      "target": 71,
+      "distance_nm": 427.1118596809938,
+      "weather_factor": 1.2275954874077704
+    },
+    {
+      "source": 64,
+      "target": 57,
+      "distance_nm": 105.73408048259111,
+      "weather_factor": 1.0236644347014514
+    },
+    {
+      "source": 64,
+      "target": 49,
+      "distance_nm": 130.85962243315277,
+      "weather_factor": 1.1931297883277088
+    },
+    {
+      "source": 64,
+      "target": 32,
+      "distance_nm": 153.78899338273263,
+      "weather_factor": 1.3282619511977065
+    },
+    {
+      "source": 65,
+      "target": 33,
+      "distance_nm": 159.87836764439527,
+      "weather_factor": 1.8643529420302865
+    },
+    {
+      "source": 65,
+      "target": 4,
+      "distance_nm": 189.2589510207138,
+      "weather_factor": 1.9668891040483611
+    },
+    {
+      "source": 65,
+      "target": 44,
+      "distance_nm": 266.21827015228513,
+      "weather_factor": 1.2791249927218713
+    },
+    {
+      "source": 66,
+      "target": 57,
+      "distance_nm": 196.11962582202736,
+      "weather_factor": 1.6414817386076277
+    },
+    {
+      "source": 66,
+      "target": 49,
+      "distance_nm": 233.52142542577909,
+      "weather_factor": 1.3996783843600609
+    },
+    {
+      "source": 66,
+      "target": 64,
+      "distance_nm": 296.1235946433396,
+      "weather_factor": 1.9811496871982601
+    },
+    {
+      "source": 67,
+      "target": 5,
+      "distance_nm": 191.26957876013267,
+      "weather_factor": 1.536215732478722
+    },
+    {
+      "source": 67,
+      "target": 53,
+      "distance_nm": 290.4032922043464,
+      "weather_factor": 1.9392371403247157
+    },
+    {
+      "source": 67,
+      "target": 17,
+      "distance_nm": 487.04672828945985,
+      "weather_factor": 1.1153417518514277
+    },
+    {
+      "source": 68,
+      "target": 28,
+      "distance_nm": 213.47732490621496,
+      "weather_factor": 1.970400611022228
+    },
+    {
+      "source": 68,
+      "target": 50,
+      "distance_nm": 243.47137338251875,
+      "weather_factor": 1.1785678161724635
+    },
+    {
+      "source": 68,
+      "target": 73,
+      "distance_nm": 583.1787289549674,
+      "weather_factor": 1.9625343157615553
+    },
+    {
+      "source": 69,
+      "target": 3,
+      "distance_nm": 190.33055063592826,
+      "weather_factor": 1.2654663625229685
+    },
+    {
+      "source": 69,
+      "target": 59,
+      "distance_nm": 205.34405834435685,
+      "weather_factor": 1.1084025472147112
+    },
+    {
+      "source": 69,
+      "target": 20,
+      "distance_nm": 270.69658389010016,
+      "weather_factor": 1.4345637585646442
+    },
+    {
+      "source": 70,
+      "target": 17,
+      "distance_nm": 116.59009129375828,
+      "weather_factor": 1.7285450606527042
+    },
+    {
+      "source": 70,
+      "target": 7,
+      "distance_nm": 210.49485166947653,
+      "weather_factor": 1.3136773141949911
+    },
+    {
+      "source": 70,
+      "target": 51,
+      "distance_nm": 252.56530325539606,
+      "weather_factor": 1.6062088533061432
+    },
+    {
+      "source": 71,
+      "target": 26,
+      "distance_nm": 321.4524900485278,
+      "weather_factor": 1.511423059669478
+    },
+    {
+      "source": 71,
+      "target": 35,
+      "distance_nm": 365.84801147212056,
+      "weather_factor": 1.3851954333447272
+    },
+    {
+      "source": 71,
+      "target": 41,
+      "distance_nm": 399.2998227057723,
+      "weather_factor": 1.5765880434965995
+    },
+    {
+      "source": 72,
+      "target": 42,
+      "distance_nm": 43.9904492639483,
+      "weather_factor": 1.2547225061385818
+    },
+    {
+      "source": 72,
+      "target": 25,
+      "distance_nm": 64.42530887318053,
+      "weather_factor": 1.7087852838341706
+    },
+    {
+      "source": 72,
+      "target": 56,
+      "distance_nm": 168.85548953244552,
+      "weather_factor": 1.0016912782186296
+    },
+    {
+      "source": 73,
+      "target": 31,
+      "distance_nm": 178.59090937593413,
+      "weather_factor": 1.9255751654990827
+    },
+    {
+      "source": 73,
+      "target": 2,
+      "distance_nm": 302.3411775656381,
+      "weather_factor": 1.538451997092792
+    },
+    {
+      "source": 73,
+      "target": 15,
+      "distance_nm": 321.61605786333956,
+      "weather_factor": 1.7194299991448454
+    },
+    {
+      "source": 74,
+      "target": 21,
+      "distance_nm": 120.63737364073168,
+      "weather_factor": 1.7419500778394765
+    },
+    {
+      "source": 74,
+      "target": 23,
+      "distance_nm": 219.4906867326034,
+      "weather_factor": 1.6706285044329996
+    },
+    {
+      "source": 74,
+      "target": 62,
+      "distance_nm": 250.80025884486878,
+      "weather_factor": 1.3642214717812642
+    }
+  ]
+}
